@@ -1,3 +1,0 @@
-#HackCTF : Crypto
-
-Beginner Level
