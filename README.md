@@ -1,2 +1,2 @@
 # pwnable
-Let's_pwnable
+Let's pwn
