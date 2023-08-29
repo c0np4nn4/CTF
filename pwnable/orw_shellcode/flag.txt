@@ -1,0 +1,1 @@
+FLAG{open_read_write_shellcode_this_is_FLAG!}
